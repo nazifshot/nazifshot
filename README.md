@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title> sayfa başlığı </title>
+    <title> </title>
   </head>
   <body>
     hello world
